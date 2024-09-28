@@ -1,0 +1,48 @@
+{
+  "Settings": {
+    "DisplayMode": "both",
+    "Services_Commands": "uslugi, services",
+    "Menu_Title": "[ ★ CS-Zjarani | Usługi ★ ]",
+    "Menu_Title_Color": "#29cc94"
+  },
+  "Uslugi": {
+    "SVIP": {
+      "Title": "[ ★ CS-Zjarani | Opis SVIPA ★ ]",
+      "MenuOptions": [
+        "Rezerwacja Slota",
+        "110 HP na start rundy",
+        "Na start rundy +100 Armor",
+        "Na start rundy Hełm",
+        "Prefix \"★SVIP★\"",
+        "na czacie & w tabeli",
+        "4x Granaty na start rundy",
+        "Przywitanie & Pożegnanie",
+        "\"★SVIPA★\"",
+        "Więcej otrzymywanych monet",
+        "Co runde otrzymujesz +750$",
+        "Dostęp do kolorowych Smoków",
+        "Darmowy zestaw rozbrajania",
+        "Dodatkowy Skok",
+        "1x Strzykawkę"
+      ]
+    },
+    "VIP": {
+      "Title": "[ ★ CS-Zjarani | Opis VIPA ★ ]",
+      "MenuOptions": [
+        "Rezerwacja Slota",
+        "105 HP na start rundy",
+        "Na start rundy +100 Armor",
+        "Prefix \"★VIP★\"",
+        "na czacie & w tabeli",
+        "2x Granaty na start rundy",
+        "Przywitanie & Pożegnanie",
+        "\"★VIPA★\"",
+        "Więcej otrzymywanych monet",
+        "Co runde otrzymujesz +500$",
+        "Dostęp do kolorowych Smoków",
+        "Darmowy zestaw rozbrajania",
+        "Dodatkowy Skok"
+      ]
+    }
+  }
+}
